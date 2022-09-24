@@ -12,4 +12,5 @@ public class Variables {
         System.out.println(mesaj+ogrenciSayisi);
         System.out.println("Ogrenci Sayim: "+ogrenciSayisi);
     }
+
 }
